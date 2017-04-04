@@ -1,6 +1,8 @@
 # MapGen
 Generating a fictional map at the regional level.
 
+ON HOLD UNTIL FURTHER NOTICE
+
 1) I can generate a random regional map (approx. 1 month travelling each direction from center)
 2) I can give this map parameters to adjust how it generates the map (more water, less mountains, etc)
 3) There is random structures there for spice (ruins, temple, dungeon, etc)
