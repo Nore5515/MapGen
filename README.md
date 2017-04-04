@@ -1,8 +1,10 @@
 # MapGen
-Generating a fictional map given parameters at multiple levels, such as local, regional and global. 
+Generating a fictional map at the regional level.
 
-
-
-I want to generate wait i got a better idea
-a mobile app to check my grades
-sounds way more useful ill put this on hold for now
+1) I can generate a random regional map (approx. 1 month travelling each direction from center)
+2) I can give this map parameters to adjust how it generates the map (more water, less mountains, etc)
+3) There is random structures there for spice (ruins, temple, dungeon, etc)
+4) There is random lore behind each structure (the old king Henry ruled here, before it was taken by the plague)
+5) I can add random factions (the old king Henry ruled the Royal Iron, a fierce military organization)
+6) Each faction has conqured territory (Royal Iron controlled most of the east)
+7) Factions have random lore (The Royal Iron was formed after barbarians destroyed most of his homeland, they seek to rule all, etc)
